@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Yahoo News Latest and Breaking News, Headlines, Live Updates, and More",
+  "Type": "App",
+  "Id": "I2NwoSKBPE-25dxjJdYKGQ",
+  "Reference": "fYN1t1f4FEqUM5otDHd7Pw/I2NwoSKBPE-25dxjJdYKGQ",
+  "Created": "2025-05-03T05:39:20.6957511Z",
+  "Updated": "2025-05-03T05:39:20.6957511Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

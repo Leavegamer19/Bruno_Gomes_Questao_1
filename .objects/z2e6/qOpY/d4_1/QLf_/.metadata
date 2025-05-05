@@ -1,0 +1,14 @@
+﻿{
+  "Name": "For Each UI Element",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "QLf_k9_78kyWZMXtUwgxaQ",
+  "Reference": "fYN1t1f4FEqUM5otDHd7Pw/QLf_k9_78kyWZMXtUwgxaQ",
+  "ParentRef": "fYN1t1f4FEqUM5otDHd7Pw/d4_1hdFpa0m8GfGix-rEew",
+  "Created": "2025-05-03T06:08:46.2476703Z",
+  "Updated": "2025-05-03T06:08:46.2476703Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

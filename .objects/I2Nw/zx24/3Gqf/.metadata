@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Yahoo News Latest and Breaking News, Headline",
+  "Type": "Screen",
+  "Id": "3Gqf6SNhNEW9ygBFQeEs7A",
+  "Reference": "fYN1t1f4FEqUM5otDHd7Pw/3Gqf6SNhNEW9ygBFQeEs7A",
+  "ParentRef": "fYN1t1f4FEqUM5otDHd7Pw/zx24Q3QamUmPpG5DJn2m6Q",
+  "Created": "2025-05-03T05:39:20.7268814Z",
+  "Updated": "2025-05-03T05:39:20.7268814Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

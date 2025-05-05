@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open - Chrome Yahoo",
+  "Type": "Screen",
+  "Id": "d4_1hdFpa0m8GfGix-rEew",
+  "Reference": "fYN1t1f4FEqUM5otDHd7Pw/d4_1hdFpa0m8GfGix-rEew",
+  "ParentRef": "fYN1t1f4FEqUM5otDHd7Pw/qOpYn-74fUKKDFJtC-AB5Q",
+  "Created": "2025-05-03T06:08:45.9787893Z",
+  "Updated": "2025-05-03T06:08:45.9787893Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

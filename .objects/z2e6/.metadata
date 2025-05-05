@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Open - Chrome Yahoo",
+  "Type": "App",
+  "Id": "z2e6VcLtlESwdIDJljQa3Q",
+  "Reference": "fYN1t1f4FEqUM5otDHd7Pw/z2e6VcLtlESwdIDJljQa3Q",
+  "Created": "2025-05-03T06:08:45.9293279Z",
+  "Updated": "2025-05-03T06:08:45.9293279Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

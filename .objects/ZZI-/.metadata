@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Nova guia",
+  "Type": "App",
+  "Id": "ZZI-pjnHHk-kNeJY-KtvUA",
+  "Reference": "fYN1t1f4FEqUM5otDHd7Pw/ZZI-pjnHHk-kNeJY-KtvUA",
+  "Created": "2025-05-03T04:55:00.1793426Z",
+  "Updated": "2025-05-03T04:55:00.1793426Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
